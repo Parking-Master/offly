@@ -3,7 +3,7 @@
 Free docker hosting and disposable containers in the cloud. Automation, web servers, you name it.
 
 ## Features
-These are the included features when you sign up to offly. These include your __Container Dashboard__ with a Cloud Terminal, Code Editor, and a File Explorer - Plus our Node.js and REST API for docker containers.
+These are the included features when you sign up to offly. These include your Container Dashboard with a Cloud Terminal, Code Editor, and a File Explorer - Plus our Node.js and REST API for docker containers.
 
 ### The offly API
 <a href="https://www.npmjs.com/package/node-offly"><img src="https://img.shields.io/npm/v/node-offly.svg"></a>
