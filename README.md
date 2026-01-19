@@ -77,7 +77,7 @@ If you're looking for more examples of the dashboard or any other features, you 
 ### The Forum
 Our [Forum](https://offly.pagekite.me/forum) is a place for the offly community to connect to discuss feature requests, report bugs, or share their feedback or experiences with offly or any of our services.
 
-It's a great place to get bugs fixed, especially big ones that lots of users are having. However, if you're having a smaller issue that needs to be fixed immediately, you can use our [Instant Bug Fixing] page instead.
+It's a great place to get bugs fixed, especially big ones that lots of users are having. However, if you're having a smaller issue that needs to be fixed immediately, you can use our [Instant Bug Fixing](https://offly.pagekite.me/support/bug) page instead.
 
 ### Support
 We offer 24/7 support, and we promise to respond to emails within 10 hours guaranteed*.
