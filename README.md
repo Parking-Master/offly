@@ -93,6 +93,8 @@ If you're curious or cautious about how we handle your information/data before s
 
 If you want to know commercial uses, freedom of our project, or what happens to users who violate our terms, you should look at our <a href="https://offly.pagekite.me/terms">Terms of Service</a>.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FParking-Master%2Foffly&label=Total%20Visitors&countColor=%23d9e3f0)
+
 # License
 offly and all offly-related services are licensed under the GNU General Public License (GPL) 3.0 License.
 
